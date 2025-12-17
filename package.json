@@ -1,7 +1,7 @@
 {
   "name": "react-ui-guardian",
   "version": "0.1.0",
-  "description": "A state-aware React utility for detecting and guarding UI fallback states..",
+  "description": "A state-aware React utility for detecting and guarding UI fallback states.",
   "author": "Latikesh Nikam",
   "license": "MIT",
   "repository": {
