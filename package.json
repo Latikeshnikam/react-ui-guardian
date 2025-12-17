@@ -12,37 +12,31 @@
   "bugs": {
     "url": "https://github.com/Latikeshnikam/react-ui-guardian/issues"
   },
-
   "type": "module",
-
   "main": "dist/index.cjs",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
-
   "files": [
     "dist"
   ],
-
   "sideEffects": false,
-
   "scripts": {
     "build": "echo \"Build step will be added later\"",
     "typecheck": "tsc --noEmit",
-    "lint": "echo \"Linting will be added later\""
+    "lint": "echo \"Linting will be added later\"",
+    "test": "vitest",
+    "test:run": "vitest run"
   },
-
   "peerDependencies": {
     "react": ">=16.8"
   },
-
-  "dependencies": {},
-
   "devDependencies": {
-    "react": "^18.2.0",
+    "@types/node": "^25.0.3",
     "@types/react": "^18.2.0",
-    "typescript": "^5.3.3"
+    "react": "^18.2.0",
+    "typescript": "^5.3.3",
+    "vitest": "^4.0.16"
   },
-
   "keywords": [
     "react",
     "ui",
