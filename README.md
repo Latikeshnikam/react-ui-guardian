@@ -1,5 +1,9 @@
 # react-ui-guardian
 
+[![npm version](https://img.shields.io/npm/v/react-ui-guardian.svg)](https://www.npmjs.com/package/react-ui-guardian)
+[![npm downloads](https://img.shields.io/npm/dm/react-ui-guardian.svg)](https://www.npmjs.com/package/react-ui-guardian)
+[![license](https://img.shields.io/npm/l/react-ui-guardian.svg)](LICENSE)
+
 **Protect your React UI from empty, error, and broken states — intelligently.**
 
 `react-ui-guardian` is a lightweight React library that standardizes how you handle  
