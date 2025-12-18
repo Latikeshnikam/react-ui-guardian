@@ -2,6 +2,8 @@
 
 [![npm version](https://img.shields.io/npm/v/react-ui-guardian.svg)](https://www.npmjs.com/package/react-ui-guardian)
 [![npm downloads](https://img.shields.io/npm/dm/react-ui-guardian.svg)](https://www.npmjs.com/package/react-ui-guardian)
+[![bundle size](https://img.shields.io/bundlephobia/minzip/react-ui-guardian)](https://bundlephobia.com/package/react-ui-guardian)
+[![Build](https://github.com/Latikeshnikam/react-ui-guardian/actions/workflows/ci.yml/badge.svg)](https://github.com/Latikeshnikam/react-ui-guardian/actions/workflows/ci.yml)
 [![license](https://img.shields.io/npm/l/react-ui-guardian.svg)](LICENSE)
 
 **Protect your React UI from empty, error, and broken states — intelligently.**
